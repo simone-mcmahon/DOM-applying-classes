@@ -1,4 +1,4 @@
-html, body {
+codehtml, body {
   height: 100%;
 }
 
@@ -30,4 +30,8 @@ div {
   border: 3px black dashed;
   border-radius: 0;
   background-color: white;
+}
+
+.green {
+  background-color: green;
 }
